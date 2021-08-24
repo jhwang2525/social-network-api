@@ -19,3 +19,4 @@
 
 ## Walkthrough Video
 
+[alt](https://github.com/jhwang2525/social-network-api/blob/main/demo/Untitled_%20Aug%2023,%202021%2010_05%20PM.gif?raw=true)
